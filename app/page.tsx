@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Home = () => (
   <div>
-    <h1 className="text-4xl text-black font-bold">
+    <h1 className=" text-black font-bold text-4xl">
       Welcome to world of Next.js
     </h1>
   </div>
